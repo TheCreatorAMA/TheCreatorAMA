@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TheCreatorAMA
-- 👀 I’m interested in Full Stack Web Development.
-- 🌱 I’m currently learning many things to become a Full Stack Web Developer.
+- 👀 I’m interested in Software Engineering.
+- 🌱 I’m currently learning Rust.
 - 💞️ I’m looking to collaborate on anything to gain some experince!
 - 📫 How to reach me ...
 
